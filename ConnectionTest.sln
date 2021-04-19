@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.WebRTC.Samples", "Unity.WebRTC.Samples.csproj", "{DF22A64F-6E70-F24B-C8B8-50A77F39C2E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C5F58944-35BC-9F9B-35B7-F800FF59F491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "endel.nativewebsocket", "endel.nativewebsocket.csproj", "{8B7B446F-A1AD-D1E4-195B-285CF15C180B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF22A64F-6E70-F24B-C8B8-50A77F39C2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF22A64F-6E70-F24B-C8B8-50A77F39C2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF22A64F-6E70-F24B-C8B8-50A77F39C2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF22A64F-6E70-F24B-C8B8-50A77F39C2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F58944-35BC-9F9B-35B7-F800FF59F491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F58944-35BC-9F9B-35B7-F800FF59F491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F58944-35BC-9F9B-35B7-F800FF59F491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F58944-35BC-9F9B-35B7-F800FF59F491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7B446F-A1AD-D1E4-195B-285CF15C180B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7B446F-A1AD-D1E4-195B-285CF15C180B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7B446F-A1AD-D1E4-195B-285CF15C180B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7B446F-A1AD-D1E4-195B-285CF15C180B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
